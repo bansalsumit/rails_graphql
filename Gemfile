@@ -47,4 +47,4 @@ group :development do
   gem 'graphiql-rails'
 end
 
-gem 'graphql', '1.9.18'
+gem 'graphql', '1.11.6'
